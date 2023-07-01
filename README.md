@@ -1,1 +1,1 @@
-# huffman
+# Huffman Encoding and Decoding
