@@ -1,1 +1,1 @@
-# Huffman Encoding and Decoding
+# Huffman Encoding and Decoding Algorithm
